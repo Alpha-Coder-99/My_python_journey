@@ -1,0 +1,6 @@
+print(4+8)
+print(4-3)
+print(3/4)
+print(3*8)
+print(2**4)
+print(3//2)
