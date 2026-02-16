@@ -8,4 +8,4 @@ if adult=="yes":
 
 age=18
 if age >=18:
-    print("True")
+    print("True")  
