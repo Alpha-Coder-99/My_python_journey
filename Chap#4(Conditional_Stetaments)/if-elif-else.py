@@ -32,7 +32,7 @@ elif flame <=50:
 else:
     print("Perfect! Salan yummy banega.😋😋")
 
-Tempreture=float("Enter Tempreture🧪")
+Tempreture=float(input("Enter Tempreture🧪"))
 if Tempreture>=30:
     print("It is too hot outside🥵")
 elif Tempreture >=15:
