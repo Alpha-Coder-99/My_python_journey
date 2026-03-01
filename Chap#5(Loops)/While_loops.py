@@ -100,3 +100,12 @@ if is_perfect_square:
     print(f"{num} is a perfect square")
 else:
     print(f"{num} is not perfect square")
+n = 5
+factorial = 1
+temp_n = n # Hum ne n ko bachane ke liye temp use kiya
+
+while temp_n >= 1:
+    factorial *= temp_n
+    temp_n -= 1 # Ek ek peeche hat-te jao
+
+print(f"5 ka factorial (While Loop) hai: {factorial}")
