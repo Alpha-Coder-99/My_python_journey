@@ -36,4 +36,4 @@ if another_item == "Yes":
         print(f"Sorry, {item_2} is not available yet.")
 
 print(f"\n--- Total amount of order to pay is {order_total} PKR ---")
-print("Enjoy your meal! 🍔😋🌸")
+print("Enjoy your meal! 🍔🥗😋🌸")
