@@ -54,12 +54,6 @@ I'm learning  python to become an **AI Engineer** ..
 ## 🎯 Current Goal
 Building 10 projects in 10 days to strengthen my portfolio!
 
-## 🌟 Featured Projects
-| Project | Description | Skills Used |
-|---------|-------------|-------------|
-| [Phonebook App](./Chap#9_Dictionary) | Store & search contacts | Dictionaries |
-| [Emoji Converter](./Chap#6_Strings) | Convert text to emojis | Strings |
-| [Smart Kitchen Manager](./Chap#7_Lists) | Track kitchen items | Lists |
 
 ## 📫 Let's Connect!
 - GitHub: [@Alpha-Coder-99](https://github.com/Alpha-Coder-99)
