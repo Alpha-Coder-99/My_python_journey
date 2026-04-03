@@ -1,0 +1,15 @@
+🔑 global Keyword Kya Hai? (The Logic)
+Python mein jab tum function ke andar koi variable likhti ho, 
+to Python samajhta hai ke ye sirf is function ka "Zati" (Private) maamla hai.
+Lekin agar tum chahti ho ke function ke andar ki gayi tabdeeli poore program (Global) par asar dale,
+to tumhein global ka keyword use karna parta hai.
+
+
+global ek Keyword hai: Kyunke Python ko batana parta hai ke "Bahar jao aur us variable ko pakro."
+Ye ek Order (Hukm) hai.
+
+
+Local variable
+local koi Keyword nahi hai: Kyunke Python by default (khud-ba-khud) function ke andar
+har nayi cheez ko "Local" hi manti hai. 
+Is liye usay alag se batane ke liye kisi keyword ki zaroorat nahi parti.
