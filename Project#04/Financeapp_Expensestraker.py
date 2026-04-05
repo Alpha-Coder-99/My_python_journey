@@ -42,7 +42,7 @@ while True:
 
     elif choice == 3:
         total = 0
-        # Sab amounts ko jama (add) karne ke liye loop
+        # Sab amounts ko jama (add) karne ke liye for loop
         for each_expense in expenses_list:
             total = total + each_expense["amount"]
         
