@@ -8,3 +8,4 @@ print("Shoru me mood:",mood)
 
 change_mood()
 print("Function ka baad mood(global)mood",mood)
+

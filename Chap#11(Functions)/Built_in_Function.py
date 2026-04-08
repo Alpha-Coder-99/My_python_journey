@@ -7,3 +7,5 @@ len()
 # Use to meauere the lenghth
 input()
 # Use to taking input from user
+type()
+# Use ko conert data type

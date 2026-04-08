@@ -7,4 +7,4 @@ def square(num):
 
 # result=square (3)
 # print(result)
-print(square(3))
+print(square(7))

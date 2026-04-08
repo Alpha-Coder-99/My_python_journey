@@ -9,7 +9,7 @@ print(full_name("Alpha","Coder"))
 # Ye Modern Python ka sab se behtareen tareeqa hai. 
 # Is mein galti ke chances kam hote hain aur ye parhne mein asaan hai.
 def fully_name(first_name,last_name):
-    # return f"{first_name}_{last_name}"
+    # return f"{first_name_{last_name}"
     return f"{first_name} {last_name}"
 
 print(fully_name("Alpha","Coder"))

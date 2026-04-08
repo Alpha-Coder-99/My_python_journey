@@ -9,7 +9,7 @@ def countvowelconsto(userInput):
             if eachChar in vowels:
                 count_vowels += 1
             else: # Agar alphabet hai lekin vowel nahi, to pakka consonant hai!
-                count_consonant += 1
+                count_consonant +=1
         # Jo alphabet nahi (space/numbers), wo skip ho jayenge
 
     return count_vowels, count_consonant

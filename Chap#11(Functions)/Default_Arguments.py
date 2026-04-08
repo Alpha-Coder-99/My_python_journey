@@ -9,6 +9,8 @@ avarege(3,9)
 avarege(3,2)
 avarege(3,42)
 avarege()
+avarege(5)
+avarege(9)
 
 
 

@@ -8,4 +8,4 @@ Alpha_fav_food("Mango")
 def user_fav_food (name,food):
     print(f"{name} loves {food}")
 
-user_fav_food("Alpha_Coder_99","Mango")
+user_fav_food("Alpha_Coder_99" ,"Mango")

@@ -5,7 +5,7 @@ if user_input.isalpha():
 else:
     print("Error: Name should only contain letters.")
 
-#.isAlpha() ya btata hn aghr alphabets ha to atrue
+#.isAlpha() ya btata ha aghr alphabets ha to a true
 # Ye method check karta hai ke string mein sirf Letters (A-Z, a-z) hain ya nahi.
 
 # Agar string mein sirf alphabets hain, to ye True return karta hai.

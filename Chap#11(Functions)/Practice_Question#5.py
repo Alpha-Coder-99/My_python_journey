@@ -2,5 +2,5 @@
 def learn():
     print("Loops")
     print("Conditional Statements")
-    print("Data Structure")
+    print("Data Structure ")
 learn()

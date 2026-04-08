@@ -6,4 +6,4 @@ def average (a,b,c):
     return avg
     
 
-average(3,7,8)
+average(3,7,9)
