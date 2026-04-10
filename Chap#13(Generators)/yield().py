@@ -1,7 +1,7 @@
 #yield: kheet
 def square_Generator (nums):
     for n in nums:
-        yield n **2
+        yield n ** 2
 
 gen=square_Generator([1,2,3,4])
 print(gen)
