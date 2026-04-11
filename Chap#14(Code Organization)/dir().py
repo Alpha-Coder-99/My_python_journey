@@ -11,5 +11,6 @@ print(dir())
 # print(dir(word))
 
 import my_package.my_module as test_module
-print("File location:", test_module.__file__)
+print("File location", test_module.__file__)
 print("Contents of file:", dir(test_module))
+#dir()

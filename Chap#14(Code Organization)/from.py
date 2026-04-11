@@ -8,14 +8,14 @@
 # Nuksan: Ye thora khatarnak hota hai kyunke agar aapke apne code mein bhi koi function usi naam ka hua, 
 # toh confusion ho jayegi.
 # Is liye professionals isay avoid karte hain.
-# from math import pi 
-# print(pi)
+from math import pi 
+print(pi)
 
-# from math import sqrt
-# print(sqrt(4))
+from math import sqrt
+print(sqrt(4))
 
-# from math import pow
-# print(pow(2,3))
+from math import pow
+print(pow(2,3))
 "We can import multiple function in any module "
 "like this:"
 from math import pow,sqrt,pi
@@ -23,3 +23,5 @@ print(sqrt(4))
 print(pow(2,3))
 print(pi)
 
+from math import factorial
+print(factorial(4))

@@ -4,3 +4,5 @@ from my_package.my_module2 import add
 
 print(add(4,5))
 print(greet("Alpha_Coder_99"))
+
+print(greet("alpha"))

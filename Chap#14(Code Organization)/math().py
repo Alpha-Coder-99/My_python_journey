@@ -23,3 +23,4 @@ print(math.pi) # pi ka samna () nahi lagata bas math.pi enogh hn
 import math
 print(math.pow(3,2)) # ya power niklana ailia use hota hn 3**2
 print(math.pow(3,5))# 3**5
+print(math.factorial(4))

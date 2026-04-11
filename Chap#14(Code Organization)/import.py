@@ -6,3 +6,11 @@ import math
 
 print(math.sqrt(6))
 print(math.factorial(3))
+
+import numpy as np # Hum 'as np' isliye likhte hain taakay short ho jaye
+
+# Ek simple NumPy Array banate hain
+my_array = np.array([1, 2, 3, 4, 5])
+
+print("Mera Pehla AI Array:", my_array)
+print("Array ki Type:", type(my_array))
