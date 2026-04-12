@@ -19,32 +19,35 @@ I'm learning  python to become an **AI Engineer** ..
 ✅ python Shape generator
 ✅ Personal Fianance app_Expenses Tracker
 ✅Cafe management system
-✅ Student Grade Mangaement system
 ✅ Contact book app
 ✅ Rock_Paper_Scissor game
 ✅Functions
+✅Recursion
 ✅ Personal Chat assigstent_Ai buddy
 ✅ To -Do -app
-✅ Tic -Tac_Toe Game
+✅Student Grade System
+✅ Tic Tac Toe Game
 ✅ Build Digital clock in python
-✅  Recursion
 ✅ File handling 
-✅ Math module
 ✅ Exeption handling
 ✅ Error and debugging
 ✅ Text editor app
 ✅Image Slide show app
 ✅ Arrays
-✅OOP 
-✅Turn mistake into corect words app (spell checker app)
+✅Object Oriented Programming
 ✅ Resturant app
 ✅House services app
+✅ Text Editor app
+✅Turn mistake into corect words app (spell checker app)
+✅Image resizer
 ✅ Robo speaker
 ✅ Weather app
-✅Image resizer
 ✅ PDF Merger
 ✅ Ficial Recongnization Attendence app
-
+✅Python ATM Machine Project
+✅Fake News Headling Generator
+✅Calculator thats saves Histroy
+✅Password Guessing Game
 
 
 
