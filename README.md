@@ -26,8 +26,6 @@ I'm learning  python to become an **AI Engineer** ..
 ✅ Personal Chat assigstent_Ai buddy
 ✅ To -Do -app
 ✅Student Grade System
-✅ Tic Tac Toe Game
-✅ Build Digital clock in python
 ✅ File handling 
 ✅ Exeption handling
 ✅ Error and debugging
@@ -35,6 +33,8 @@ I'm learning  python to become an **AI Engineer** ..
 ✅Image Slide show app
 ✅ Arrays
 ✅Object Oriented Programming
+✅ Tic Tac Toe Game
+✅ Build Digital clock in python
 ✅ Resturant app
 ✅House services app
 ✅ Text Editor app
