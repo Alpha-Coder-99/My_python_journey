@@ -48,20 +48,3 @@ I'm learning  python to become an **AI Engineer** ..
 ✅Fake News Headling Generator
 ✅Calculator thats saves Histroy
 ✅Password Guessing Game
-
-
-
-
-
-
-## 🎯 Current Goal
-Building 10 projects in 10 days to strengthen my portfolio!
-
-
-## 📫 Let's Connect!
-- GitHub: [@Alpha-Coder-99](https://github.com/Alpha-Coder-99)
-- Email: [your-email]
-- LinkedIn: [create one!]
-
-## 💪 My Mission
-"I will become an AI Engineer ." 🇵🇰
