@@ -1,16 +1,16 @@
 # class
 #class is blue printfor creating  any object
 #Creating class
-# class Student:
-#     name="Raha"
+class Student:
+    name="Raha"
 
-#print("student")
+print("student")
 
-# #Creating Objects/instances of classes
-# s1=Student()
-# print(s1.name)
-# s2=Student()
-# print(s2.name)
+#Creating Objects/instances of classes
+s1=Student()
+print(s1.name)
+s2=Student()
+print(s2.name)
 
 class Car:
     brand="Honda_Civics"

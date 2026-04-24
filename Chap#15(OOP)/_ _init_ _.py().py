@@ -1,19 +1,23 @@
-# class Car:
-#    def __init__(self,brand ,color):
-#       self.brand=brand
-#       self.color=color
+"""All Classes have a function i called -init- function
+Which is always executed when the object is bieng 
+initiated """
+"__init__ ka matlab hai 'Initialize'."
+"""Ye wo function hai jo tab chalta hai jab aap koi naya Object banate hain.
+Jaise hi koi bacha paida hota hai,
+ uska naam aur rang pehle se tay hota hai,
+ waise hi __init__ object ko uski pehli values (attributes) deta hai."""
 
-# def start (self):
-#    print(f"The {self.brand} {self.color} car has started")
-# def stop (self):
-#    print(f"The {self.brand} {self.color} car has Stoped ")
+class Student:
+    name="Raha"
+    def __init__(self):
+        print("Adding new student in Database...")
+        print(self)
+    
 
-# car1=Car ("BMW","Black")
-# car2=Car("Tyota","White")
-# car3=Car("Tesla","Gray")
+# print("student")
 
-# car1.start()
-# car2.start()
-# car3.start()
-
-# car2.stop() 
+#Creating Objects/instances of classes
+s1=Student()
+print(s1.name)
+# s2=Student()
+# print(s2.name)
