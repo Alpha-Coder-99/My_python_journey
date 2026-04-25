@@ -14,37 +14,19 @@ I'm learning  python to become an **AI Engineer** ..
 ✅ **Chapter 8:** Tuples + Practice Questions  
 ✅ **Chapter 9:** Dictionaries + Phonebook App **(Latest!)** 🎉
 ✅Chapter 10 ** set +set methods mini projects
-✅ Rent calculator
-✅ Python py bot 
-✅ python Shape generator
-✅ Personal Fianance app_Expenses Tracker
-✅Cafe management system
-✅ Contact book app
-✅ Rock_Paper_Scissor game
-✅Functions
-✅Recursion
-✅ Personal Chat assigstent_Ai buddy
-✅ To -Do -app
-✅Student Grade System
-✅ File handling 
-✅ Exeption handling
-✅ Error and debugging
-✅ Text editor app
-✅Image Slide show app
-✅ Arrays
-✅Object Oriented Programming
-✅ Tic Tac Toe Game
-✅ Build Digital clock in python
-✅ Resturant app
-✅House services app
-✅ Text Editor app
-✅Turn mistake into corect words app (spell checker app)
-✅Image resizer
-✅ Robo speaker
-✅ Weather app
-✅ PDF Merger
-✅ Ficial Recongnization Attendence app
-✅Python ATM Machine Project
-✅Fake News Headling Generator
-✅Calculator thats saves Histroy
-✅Password Guessing Game
+✅ Project#01(Rent calculator)
+✅Project#02(Python py bot )
+✅Project#03(python Shape generator)
+✅Project#04(Personal Fianance app_Expenses Tracker)
+✅Project#05(Restaurant  management system)
+✅Project#06(Contact book app)
+✅Project#07(Rock_Paper_Scissor game)
+✅Chap#11 Functions
+✅Chap#12 Recursion
+✅Chap#13(Generators)
+✅Chap#14(Code Organization)
+✅Project#08(Percentage_Calculator)
+✅Project#09(Personal Chat assigstent_Ai buddy)
+✅Project#10(To -Do -app)
+✅Project#11(Student Grade System)
+✅Chap#15(OOPs)
