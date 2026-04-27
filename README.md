@@ -31,4 +31,4 @@ I'm learning  python to become an **AI Engineer** ..
 ✅Project#11(Student Grade System)
 ✅Chap#15(OOPs)
 ✅Chap#16(OOps_Methods)
-✅Chap#17(4_pillor_of_OOPs)
+✅Chap#17(4_pillors_of_OOPs)
