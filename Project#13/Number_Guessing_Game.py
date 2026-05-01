@@ -21,7 +21,7 @@ while True:
     if user_guess.isdigit():
         user_guess = int(user_guess)
     else:
-        print('Please type a number next time.')
+        print('Please type a number next time not .')
         continue
 
     if user_guess == random_number:
