@@ -9,6 +9,7 @@ if playing.lower() != "yes":
 print("Okay! Let's play 😀")
 score = 0
 
+# Question#1
 answer = input("What does CPU stand for? ")
 if answer.lower() == "central processing unit":
     print('Correct!')
@@ -16,6 +17,7 @@ if answer.lower() == "central processing unit":
 else:
     print("Incorrect!")
 
+#Question#2
 answer = input("What does GPU stand for? ")
 if answer.lower() == "graphics processing unit":
     print('Correct!')
@@ -23,6 +25,7 @@ if answer.lower() == "graphics processing unit":
 else:
     print("Incorrect!")
 
+#Question#3
 answer = input("What does RAM stand for? ")
 if answer.lower() == "random access memory":
     print('Correct!')
@@ -30,6 +33,7 @@ if answer.lower() == "random access memory":
 else:
     print("Incorrect!")
 
+#Question#4
 answer = input("What does PSU stand for? ")
 if answer.lower() == "power supply":
     print('Correct!')
