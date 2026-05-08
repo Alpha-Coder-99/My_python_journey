@@ -2,13 +2,24 @@
 # del s1.name
 # del s1
 
+
 class Student:
     def __init__(self,name):
         self.name=name
 
-s1=Student("Halima")
+s1=Student("Mariyam")
 print(s1.name)
 
 del s1
 print(s1.name)
-        
+
+class Car:
+    def __init__(self,brand):
+        self.brand=brand
+
+c1=Car("Mercedes")
+print(s1.brand)
+
+del c1
+print(c1.brand)
+     

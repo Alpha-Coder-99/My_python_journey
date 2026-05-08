@@ -2,7 +2,7 @@ class Person:
     __name="anonymous"
 
     def hello():
-        print("Hello Users")
+        print("Hello Users!")
 
 
 p1=Person()

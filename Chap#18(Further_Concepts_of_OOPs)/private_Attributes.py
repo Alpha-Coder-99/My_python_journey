@@ -6,7 +6,7 @@ class Account:
     def reset_pass(self):
         print(self._acc_pass)
 
-acc1=Account("12345","abcd")
+acc1=Account("12345","abcde")
 
 print(acc1._acc_pass)
 print(acc1.reset_pass())
