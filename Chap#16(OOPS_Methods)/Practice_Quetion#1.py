@@ -15,7 +15,7 @@ class Student:
 
 s1 = Student("Fatima", [34, 89, 78])
 s1.get_average()
-# s1.name="Iron man"
-# s1.get_average()
+s1.name="Iron man"
+s1.get_average()
 
 

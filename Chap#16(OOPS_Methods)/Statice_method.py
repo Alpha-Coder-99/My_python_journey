@@ -13,7 +13,7 @@ class Student:
             total_sum += val
         
         
-        # Print loop se bahar hona chahiye taake final result aaye
+# Print loop se bahar hona chahiye taake final result aaye
         average = total_sum / 3
         print(f"Hi! {self.name}, your average score is: {average}")
 

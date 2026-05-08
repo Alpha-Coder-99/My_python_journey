@@ -13,6 +13,7 @@ class person :
     @classmethod
     def ChangeName(cls,name):
         cls.name=name
+    
 p1=person()
 p1.ChangeName("Batool")
 print(p1.name)
