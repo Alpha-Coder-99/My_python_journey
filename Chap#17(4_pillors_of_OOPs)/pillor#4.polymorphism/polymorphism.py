@@ -52,3 +52,5 @@ num5=num1*num2
 num5.showNumber()
 num6=num1/num2
 num6.showNumber()
+num7=num1+num2
+num7.showNumber()

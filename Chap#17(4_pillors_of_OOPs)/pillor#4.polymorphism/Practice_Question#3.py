@@ -8,7 +8,7 @@ class Order:
 
     def __gt__(self,odr2):
         return self.price >odr2.price
-odr1=Order("Chips","100")
+odr1=Order("Juice","100")
 odr2=Order("Biscket","50")
 print(odr1 < odr2)
 print(odr1 > odr2)

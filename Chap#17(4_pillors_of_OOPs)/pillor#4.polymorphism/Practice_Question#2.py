@@ -11,7 +11,7 @@ class Employee:
         print(f"department={self.department}")
         print(f"salary={self.salary}")
 
-e1=Employee("accountant","Finance","90,000")
+e1=Employee("accountant","Finance","80,000")
 e1.showDetails()
 class Engineer(Employee):
     def __init__(self,name,age):
