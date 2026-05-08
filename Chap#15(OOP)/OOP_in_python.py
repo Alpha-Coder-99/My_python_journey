@@ -39,7 +39,7 @@ class Student:
     def __init__(self, name):
         self.name = name
 
-s1 = Student("Areeba")
+s1 = Student("Alpha_Coder")
 print(s1.name)
 
 # 👉 Yahan:

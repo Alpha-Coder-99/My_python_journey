@@ -22,7 +22,7 @@ car1=Car
 print(car1.color)
 
 class College:
-    name="Inspire College"
+    name="Inspire_College"
     char="Disipline"
 
 college1=College
