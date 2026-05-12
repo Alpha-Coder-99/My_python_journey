@@ -7,6 +7,6 @@ print(psutil.cpu_percent())
 print(psutil.virtual_memory().percent)
 # 🟢 4. Battery (laptop)
 print(psutil.sensors_battery())
-# 🟢 5. Running processes (basic idea)
+# 🟢 5. Running processes (basics idea)
 for p in psutil.process_iter():
     print(p.name())
