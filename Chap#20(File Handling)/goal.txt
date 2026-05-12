@@ -1,0 +1,4 @@
+1.cover python baisics to oops 
+2.Clear NUMPy ,Panda,tremlitGUI 
+3.Webscrapping & Ai automation
+focuing
