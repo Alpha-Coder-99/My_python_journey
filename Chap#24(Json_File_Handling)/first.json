@@ -1,0 +1,15 @@
+{
+    "name":"Hira",
+    "score":"9.8",
+    "Is_Muslim":true,
+    "license":null,
+    "ShopItems":["fruits","Candy","Choclates"],
+    "myObj":{
+        "name":"Nisa",
+        "age":"17",
+        "Gender":"Female",
+        "ShopItems":[{"fruits":["Apple","Mango","Banana"]},"Candy",{"Choclates":["MilkyChoclate","DarkChaoclate"]},{"a":false}]
+         
+    }
+
+}
