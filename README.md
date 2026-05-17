@@ -49,4 +49,5 @@ I'm learning  python to become an **AI Engineer** ..
 ✅Choose_your_own_advanture_Game🎮
 ✅System_Health_Monitor_project
 ✅Chap#23(Exception Handling)
+✅Chap#24(Json_File_Handling)
 ✅
