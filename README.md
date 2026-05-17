@@ -44,6 +44,9 @@ I'm learning  python to become an **AI Engineer** ..
 ✅Project#19(House_Services_App🏡🚛)
 ✅project#20(REstuarant_App🍔🍕🍚🍜🍝🍗😋😋)
 ✅Chap#20(File Handling)
+✅Chap#21(Tkinter_module)
+✅Chap#22(psutil_module)
 ✅Choose_your_own_advanture_Game🎮
 ✅System_Health_Monitor_project
+✅Chap#23(Exception Handling)
 ✅
