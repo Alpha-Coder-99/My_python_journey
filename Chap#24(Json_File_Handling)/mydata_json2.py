@@ -19,4 +19,4 @@ print(parsed["city"])  # Karachi
 
 # 4️⃣ DICT to STRING (Bhejne ke liye)
 new_string = json.dumps({"msg": "Hello"})
-print(new_string)  # '{"msg": "Hello"}'
+print(new_string)  # '{"msg": "Hello"}' 
