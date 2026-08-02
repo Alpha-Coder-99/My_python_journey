@@ -16,3 +16,4 @@ def is_even(num):
 number = int(input("Enter the number:"))
 if is_even(number):
     print(f"{number} AI processing ke liye valid hai!")
+    
