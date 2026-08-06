@@ -1,4 +1,4 @@
-# while (whatever)
+# while (whatever)(jabka)
 
 num=1
 while num <=10:

@@ -1,3 +1,4 @@
+# break	🛑 STOP	Loop ko foran khatam kar deta hai.
 for i in range(1, 11):
     if i == 7:
         print("Mil gaya 7! Ab agay nahi jana.")

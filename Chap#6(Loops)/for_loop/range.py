@@ -1,4 +1,4 @@
-#range(start,stop,step)
+# range(start,stop,step)
 # for item in range(2,20,2 ):
 #     print(item)
 #Write a program using for and range() to print all even number  b/w 1 to 30
@@ -28,8 +28,4 @@ for i in range(1, n + 1):
 
 print(f"5 ka factorial (For Loop) hai: {factorial}")
 
-"""Keyword	Matlab	Kya karta hai?
-break	🛑 STOP	Loop ko foran khatam kar deta hai.
-continue	⏭️ SKIP	Sirf current round ko chhor kar aglay par jata hai.
-pass	😶 NOTHING	Sirf jagah pur (fill) karta hai taake error na aaye."""
 

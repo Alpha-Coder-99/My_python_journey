@@ -1,3 +1,4 @@
+# continue	⏭️ SKIP	Sirf current round ko chhor kar aglay par jata hai.
 for egg in range(1, 11):
     if egg == 5: # Samjho 5th anda kharab hai
         print(f"Oye! Anda {egg} toh kharab hai! 🤢 Skip karo.")
